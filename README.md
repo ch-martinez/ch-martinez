@@ -1,6 +1,6 @@
 # 💫 About Me:
 - 👋 Hi, I’m @ch-martinez
-- - 💞️ I’m from Córdoba, Argentina
+- 💞️ I’m from Rio Cuarto, Córdoba, Argentina
 - 🌱 Student in "Codo a Codo 4.0 - Fullstack NodeJs"
 
 ## 🌐 Socials:
